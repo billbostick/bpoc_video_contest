@@ -1,0 +1,3 @@
+<?php
+
+include_once('bpoc_video_contest.features.inc');
