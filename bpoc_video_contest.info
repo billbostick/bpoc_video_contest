@@ -1,7 +1,7 @@
 name = "BPOC Video Contest"
 description = "Provides support for Video Contests"
 core = "6.x"
-package = "Features"
+package = "BPOC Contest"
 version = "6.x-1.0"
 project = "bpoc_video_contest"
 dependencies[] = "bpoc_contest"
